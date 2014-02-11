@@ -1,0 +1,91 @@
+.matrix-border-top {
+    padding-top: 0 !important;
+    border-top-color: #000000;
+    border-top-width: 3px;
+    border-top-style: solid;
+}
+
+.matrix-border-right {
+    padding-right: 0 !important;
+    border-right-color: #000000;
+    border-right-width: 3px;
+    border-right-style: solid;
+}
+
+/* @group Marquee */
+
+.marquee {
+    height: 30px;
+
+    overflow: hidden;
+    position: relative;
+}
+
+.marquee div {
+    display: block;
+    width: 200%;
+    height: 30px;
+
+    position: absolute;
+    overflow: hidden;
+
+    -webkit-animation: marquee 10s linear infinite;
+    -moz-animation: marquee 10s linear infinite;
+    -ms-animation: marquee 10s linear infinite;
+    -o-animation: marquee 10s linear infinite;
+    animation: marquee 10s linear infinite;
+}
+
+.marquee span {
+    float: left;
+    width: 50%;
+    padding: 0 5px 0 5px;
+    /*border-right: #000000   solid;*/
+}
+
+@-webkit-keyframes marquee {
+    0% {
+        left: 0;
+    }
+    100% {
+        left: -100%;
+    }
+}
+
+@-moz-keyframes marquee {
+    0% {
+        left: 0;
+    }
+    100% {
+        left: -100%;
+    }
+}
+
+@-ms-keyframes marquee {
+    0% {
+        left: 0;
+    }
+    100% {
+        left: -100%;
+    }
+}
+
+@-o-keyframes marquee {
+    0% {
+        left: 0;
+    }
+    100% {
+        left: -100%;
+    }
+}
+
+@keyframes marquee {
+    0% {
+        left: 0;
+    }
+    100% {
+        left: -100%;
+    }
+}
+
+/* @end */

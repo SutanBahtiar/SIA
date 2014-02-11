@@ -1,0 +1,98 @@
+[class^="icon-"],
+[class*=" icon-"] {
+    background-repeat: no-repeat;
+    width: 48px;
+    height: 48px;
+    content: "";
+    position: absolute;
+    left: 0;
+    margin-top: 3px;
+}
+
+.icon-dashboard {
+    background-image: url("../icon/icon_dashboard.png");
+}
+
+.icon-users {
+    background-image: url("../icon/icon_users.png");
+}
+
+.icon-user {
+    background-image: url("../icon/icon_user.png");
+}
+
+.icon-board {
+    background-image: url("../icon/icon-board.png");
+}
+
+.icon-buatbaru {
+    background-image: url("../icon/icon-buatbaru.png");
+}
+
+.icon-daftarlapor {
+    background-image: url("../icon/icon-daftarlapor.png");
+}
+
+.icon-kriteria {
+    background-image: url("../icon/icon-kriteria.png");
+}
+
+.icon-lihat {
+    background-image: url("../icon/icon-lihat.png");
+}
+
+.icon-matriks {
+    background-image: url("../icon/icon-matriks.png");
+}
+
+.icon-organisasi {
+    background-image: url("../icon/icon-organisasi.png");
+}
+
+.icon-security {
+    background-image: url("../icon/icon-security.png");
+}
+
+.icon-taxonomy {
+    background-image: url("../icon/icon-taxonomy.png");
+}
+
+.icon-potensi-gas {
+    background-image: url("../icon/icon-potensigas.png");
+}
+
+.icon-kunj-lap {
+    background-image: url("../icon/icon-kunj-lap.png");
+}
+
+.icon-sk-panitia {
+    background-image: url("../icon/icon-skpanitia.png");
+}
+
+.icon-kom {
+    background-image: url("../icon/icon-kom.png");
+}
+
+.icon-mou {
+    background-image: url("../icon/icon-mou.png");
+}
+
+.icon-hoa {
+    background-image: url("../icon/icon-hoa.png");
+}
+
+.icon-pjbg {
+    background-image: url("../icon/icon-pjbg.png");
+}
+
+.icon-changestatus {
+    background-image: url("../icon/icon-changestatus.gif");
+}
+
+.icon-datamaster {
+    background-image: url("../icon/icon-datamaster.png");
+}
+
+.icon-ktagreements {
+    background-image: url("../icon/icon-ktagreement.png");
+}

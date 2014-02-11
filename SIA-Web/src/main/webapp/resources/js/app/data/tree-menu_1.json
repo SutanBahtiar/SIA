@@ -1,0 +1,10 @@
+
+{
+    "text": ".",
+    "children":
+            [
+            {"createdBy": null, "changedBy": null, "entity": null, "createdAt": null, "changedAt": null, "id": 1, "text": "Pembiayaan", "expanded": true, "leaf": null, "form": null, "order": null, 
+            "children": [{"createdBy": null, "changedBy": null, "entity": null, "createdAt": null, "changedAt": null, "id": 4, "text": "Rekening", "expanded": true, "leaf": true, "form": null, "order": null, 
+                    "children": []}]}, 
+            {"createdBy": null, "changedBy": null, "entity": null, "createdAt": null, "changedAt": null, "id": 3, "text": "Simpanan", "expanded": true, "leaf": null, "form": null, "order": null, "children": []}, 
+            {"createdBy": null, "changedBy": null, "entity": null, "createdAt": null, "changedAt": null, "id": 4, "text": "Rekening", "expanded": true, "leaf": true, "form": null, "order": null, "children": []}]}
