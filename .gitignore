@@ -1,1 +1,17 @@
+### compiled
 *.class
+
+.*
+
+### package
+*.war
+*.jar
+*.zip
+*.tar
+*.rar
+
+### log
+*.log
+
+/SIA-Repository/target/
+/SIA-Web/target/
